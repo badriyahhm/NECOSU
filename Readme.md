@@ -1,5 +1,15 @@
 # Necosu
 
+## Our Team
+
+- M204BSY0519 - Febrian Firmansyah Latumapayahu - Universitas Esa Unggul - Machine Learning
+- M204BSY0517 – Muhammad Febri Yudhi – Universitas Esa Unggul - Machine Learning
+- M006BSY0799 – Ebenezer Milala – Universitas Brawijaya-  Machine Learning 
+- C258BSY3791 – Ardhika Yoga Pratama – Universitas Muhammadiyah Malang - Cloud Computing
+- C258BSY3790 – Nugroho Adi – Universitas Muhammadiyah Malang - Cloud Computing
+- A290BSX2962 – Badriyah Husnayah Masrurah – Universitas Pancasila - Mobile Development
+- A004BSY2410 – Bima Aditya Oktariza Siswanto – Institut Teknologi Sepuluh Nopember - Mobile Development
+
 ## Tagline
 
 Embrace Your True Self with Confidence
